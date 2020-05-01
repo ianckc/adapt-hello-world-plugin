@@ -1,0 +1,27 @@
+{
+  "name": "adapt-helloWorld",
+  "authors": [
+    "Ian Luckraft <ian.luckraft@headscape.co.uk>"
+  ],
+  "description": "An example Adapt plugin to say Hello World",
+  "main": "js/adapt-helloWorld.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/plugins",
+    "test",
+    "tests"
+  ],
+  "version": "0.0.1",
+  "framework": ">=5.0",
+  "component": "helloWorld",
+  "displayName": "Hello World"
+}
